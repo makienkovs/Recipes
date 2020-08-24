@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="email" translatable="false">email</string>
+    <string name="password" translatable="false">password</string>
+    <string name="registration">registration</string>
+    <string name="signin">sign in</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="err_email">Enter valid email address</string>
+    <string name="err_password">Password should be longer than 5 and shorter than 20 symbols</string>
+    <string name="err_cam">Error occurred with camera</string>
+    <string name="err_save">Error occurred with saving image</string>
+    <string name="err_gallery">Error occurred with gallery</string>
+    <string name="auth_failed">Authorisation failed</string>
+    <string name="reg_ok">Registration OK</string>
+    <string name="reg_failed">Registration failed</string>
+
+    <string name="tab_text_1">All</string>
+    <string name="tab_text_2">My</string>
+    <string name="tab_text_3">Saved</string>
+
+    <string name="title">Title</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="howtocook">How to cook</string>
+    <string name="publish">Publish</string>
+    <string name="photo">Photo</string>
+    <string name="takeshot">Take shot</string>
+    <string name="load">Load image</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="failed">Failed</string>
+    <string name="err_title">Enter a title</string>
+    <string name="err_ingredients">Add ingredients</string>
+    <string name="err_howtocook">Add description of how to cook</string>
+    <string name="err_photo">Add photo</string>
+    <string name="search">Search here</string>
+    <string name="remove">Remove recipe</string>
+    <string name="sureToRemove">Are your sure want to remove this recipe?</string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok" translatable="false">OK</string>
+    <string name="added">Recipe saved</string>
+    <string name="allready_added">Recipe already saved</string>
+    <string name="deleted">Recipe deleted</string>
+    <string name="recover">Password recover</string>
+    <string name="email_to_recover">Enter the email address you used when registering to send a password recovery message</string>
+    <string name="email_sent">Email sent</string>
+    <string name="email_not_sent">Email not sent, check connection and validness of address</string>
+
+</resources>

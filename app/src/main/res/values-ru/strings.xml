@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рецепты</string>
+    <string name="registration">Регистрация</string>
+    <string name="signin">Войти</string>
+    <string name="forgot">Забыли пароль?</string>
+    <string name="err_email">Введите правильный адрес email</string>
+    <string name="err_password">Пароль должен быть длинее 5 и короче 20 символов</string>
+    <string name="err_cam">Ошибка связанная с работой камеры</string>
+    <string name="err_save">Ошибка связанная с сохранением изображения</string>
+    <string name="err_gallery">Ошибка связанная с галереей</string>
+    <string name="auth_failed">Не удалось авторизироваться</string>
+    <string name="reg_ok">Успешная регистрация</string>
+    <string name="reg_failed">Не удалось зарегистрироваться</string>
+
+    <string name="tab_text_1">Все</string>
+    <string name="tab_text_2">Мои</string>
+    <string name="tab_text_3">Сохраненные</string>
+
+    <string name="title">Название</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="howtocook">Как готовить</string>
+    <string name="publish">Опубликовать</string>
+    <string name="photo">Фото</string>
+    <string name="takeshot">Камера</string>
+    <string name="load">Загрузить</string>
+    <string name="uploaded">Загружено</string>
+    <string name="failed">Ошибка</string>
+    <string name="err_title">Введите название</string>
+    <string name="err_ingredients">Введите ингредиенты</string>
+    <string name="err_howtocook">Введите описание процесса приготовления</string>
+    <string name="err_photo">Добавьте фото</string>
+    <string name="search">Поиск</string>
+    <string name="remove">Удаление рецепта</string>
+    <string name="sureToRemove">Вы действительно хотите удалить этот рецепт?</string>
+    <string name="cancel">Отмена</string>
+    <string name="added">Рецепт сохранен</string>
+    <string name="allready_added">Рецепт уже был сохранен</string>
+    <string name="deleted">Рецепт удален</string>
+    <string name="recover">Восстановление пароля</string>
+    <string name="email_to_recover">Введите адрес электронной почты, который вы использовали при регистрации, для отправки сообщения для восстановления пароля</string>
+    <string name="email_sent">Письмо отправлено</string>
+    <string name="email_not_sent">Письмо не отправлено, проверьте сетевое соединение и правильность адреса</string>
+</resources>
